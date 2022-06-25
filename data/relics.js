@@ -52,7 +52,7 @@
     "points": 4,
     "traits": "Bow",
     "attack": "Range",
-    "equip": "Two hands",
+    "equip": "Two Hands",
     "dice": "Blue Yellow Yellow",
     "rules": "You cannot be Terrified. Surge: +2 Hearts. Surge: Pierce 2. Surge: +4 Range.",
     "expansion": "The Chains That Rust",
