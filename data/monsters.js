@@ -2223,7 +2223,7 @@
     "points": 129,
     "act": "I",
     "traits": [
-      "Mountains",
+      "Mountain",
       "Cave"
     ],
     "ability rules": [
@@ -2258,7 +2258,7 @@
     "points": 131,
     "act": "II",
     "traits": [
-      "Mountains",
+      "Mountain",
       "Cave"
     ],
     "ability rules": [
@@ -2378,7 +2378,7 @@
     ],
     "expansion": "Lair Of The Wyrm",
     "image": "monsters/fire-imps-lw-act1-back.png",
-    "xws": "fire-imps"
+    "xws": "fireimps"
   },
   {
    "name": "Fire Imps",
@@ -2413,7 +2413,7 @@
     ],
     "expansion": "Lair Of The Wyrm",
     "image": "monsters/fire-imps-lw-act2-back.png",
-    "xws": "fire-imps"
+    "xws": "fireimps"
   },
   {
    "name": "Hybrid Sentinel",
@@ -2844,7 +2844,7 @@
     ],
     "expansion": "The Trollfens",
     "image": "monsters/plague-worm-tf-act1-front.png",
-    "xws": "Plague Worm"
+    "xws": "plagueworm"
   },
   {
     "name": "Plague Worm",
@@ -2879,7 +2879,7 @@
     ],
     "expansion": "The Trollfens",
     "image": "monsters/plague-worm-tf-act2-front.png",
-    "xws": "Plague Worm"
+    "xws": "plagueworm"
   },
   {
     "name": "Plague Worm",
@@ -4731,7 +4731,7 @@
     "points": 273,
     "act": "I",
     "traits": [
-      "Mountains",
+      "Mountain",
       "Cave"
     ],
     "ability rules": [
@@ -4766,7 +4766,7 @@
     "points": 275,
     "act": "II",
     "traits": [
-      "Mountains",
+      "Mountain",
       "Cave"
     ],
     "ability rules": [
